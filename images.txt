@@ -4,6 +4,8 @@ opencti/worker:6.3.5
 opencti/connector-export-file-stix:6.3.5
 opencti/connector-export-file-csv:6.3.5
 opencti/connector-export-file-txt:6.3.5
+opencti/connector-import-file-stix:6.3.5
+opencti/connector-import-document:6.3.5
 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
